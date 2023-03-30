@@ -16,3 +16,15 @@ main{
     display: inline-block;
     margin-top: 2%;
 }
+
+.pokedex{
+    width: 100%;
+    max-height: 425px;
+}
+
+.pokemon__image{
+    position: absolute;
+    bottom: 55%;
+    left: 50%;
+    transform: translate();
+}
